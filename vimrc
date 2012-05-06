@@ -1,4 +1,5 @@
 set nocompatible  " Use Vim settings, rather then Vi settings
+set noswapfile
 set nobackup
 set nowritebackup
 set history=50

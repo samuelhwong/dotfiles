@@ -13,11 +13,19 @@ alias be="bundle exec"
 alias ln='ln -v'
 alias mkdir='mkdir -p'
 alias ...='../..'
-alias l='ls'
-alias ll='ls -al'
-alias lh='ls -Alh'
+alias l='ls -G'
+alias ll='ls -Gal'
+alias ls='ls -G'
+alias lh='ls -GAlh'
 
-alias -g G='| grep'
-alias -g M='| less'
-alias -g L='| wc -l'
-alias -g ONE="| awk '{ print \$1}'"
+# alias -g G='| grep'
+# alias -g M='| less'
+# alias -g L='| wc -l'
+# alias -g ONE="| awk '{ print \$1}'"
+
+alias v='vim'
+alias gg='git status'
+
+# aliases for feastonit
+alias fe="cd ~/feastonit/events"
+alias re="ssh koidiesc@koidies.com"

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/samuel/feastonit/guestlist/lib/guestlist'
+let g:netrw_dirhist_2='/Users/samuel/github/twitter/lib/twitter'
+let g:netrw_dirhist_3='/Users/samuel/feastonit/guestlist/lib/guestlist'
+let g:netrw_dirhist_4='/Users/samuel/feastonit/events/config/initializers'
+let g:netrw_dirhist_5='/Users/samuel/feastonit/events/app/controllers/api'
+let g:netrw_dirhist_6='/Users/samuel/feastonit/events/app/controllers/api/v1'
+let g:netrw_dirhist_7='/Users/samuel/feastonit/events/app/controllers/api'
+let g:netrw_dirhist_8='/Users/samuel/feastonit/events/spec/requests'
+let g:netrw_dirhist_9='/Users/samuel/personal_website/octopress/source/_posts'
